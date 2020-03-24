@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/day03_eesy_01account/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_03account_annoioc/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_03account_annoioc/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day03_eesy_01account/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_02account_xmlioc/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_04bean/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_05DI/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_05DI/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_04account_annoioc_withoutxml/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_04account_annoioc_withoutxml/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_01anno_ioc/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_02account_xmlioc/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_04bean/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_03spring/target/classes/bean.xml</file>
+          <file>file://$MODULE_DIR$/day02_eesy_01anno_ioc/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/day01_eesy_03spring/src/main/resources/bean.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/day01_eesy_04bean/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/day01_eesy_04bean/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.0.2.RELEASE" level="project" />
+  </component>
+</module>

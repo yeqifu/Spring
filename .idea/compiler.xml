@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_01jdbc" />
+        <module name="day01_eesy_02factory" />
+        <module name="day01_eesy_03spring" />
+        <module name="day01_eesy_04beans" />
+        <module name="day01_eesy_05DI" />
+        <module name="day02_eesy_01anno_ioc" />
+        <module name="day02_eesy_02account_xmlioc" />
+        <module name="day02_eesy_03account_annoioc" />
+        <module name="day02_eesy_04account_annoioc_withoutxml" />
+        <module name="day03_eesy_01account" />
+        <module name="day03_eesy_01accountAOP" />
+        <module name="day03_eesy_02proxy" />
+        <module name="day03_eesy_03springAOP" />
+        <module name="day03_eesy_04adviseType" />
+        <module name="day03_eesy_05annotationAOP" />
+        <module name="day04_eesy_01jdbcTemplate" />
+        <module name="day04_eesy_02account_aopTx_xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="day01_eesy_01jdbc" target="1.8" />
+      <module name="day01_eesy_02factory" target="1.8" />
+      <module name="day01_eesy_03spring" target="1.8" />
+      <module name="day01_eesy_04bean" target="1.8" />
+      <module name="day01_eesy_04beans" target="1.8" />
+      <module name="day01_eesy_05DI" target="1.8" />
+      <module name="day02_eesy_01anno_ioc" target="1.8" />
+      <module name="day02_eesy_02account_xmlioc" target="1.8" />
+      <module name="day02_eesy_03account_annoioc" target="1.8" />
+      <module name="day02_eesy_04account_annoioc_withoutxml" target="1.8" />
+      <module name="day03_eesy_01account" target="1.8" />
+      <module name="day03_eesy_01accountAOP" target="1.8" />
+      <module name="day03_eesy_02proxy" target="1.8" />
+      <module name="day03_eesy_03springAOP" target="1.8" />
+      <module name="day03_eesy_04adviseType" target="1.8" />
+      <module name="day03_eesy_05annotationAOP" target="1.8" />
+      <module name="day04_eesy_01jdbcTemplate" target="1.8" />
+      <module name="day04_eesy_02account_aopTx_xml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

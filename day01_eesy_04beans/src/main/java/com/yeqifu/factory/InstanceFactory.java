@@ -1,0 +1,17 @@
+package com.yeqifu.factory;
+
+import com.yeqifu.service.IAccountService;
+import com.yeqifu.service.impl.AccountServiceImpl;
+
+/**
+ * 模拟一个实例工厂类（该类可能存在于jar包中，我们无法通过修改源码的方式来提供默认构造函数）
+ * @Author: 落亦-
+ * @Date: 2020/3/2 21:06
+ */
+public class InstanceFactory {
+
+    public IAccountService getAccountService(){
+        return new AccountServiceImpl();
+    }
+
+}
