@@ -13,6 +13,5 @@ public class JdbcTemplateTest {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("bean.xml");
         JdbcTemplate jdbcTemplate = applicationContext.getBean("jdbcTemplate", JdbcTemplate.class);
         jdbcTemplate.execute("insert into account (name,money) values ('特朗普','100000')");
-
     }
 }

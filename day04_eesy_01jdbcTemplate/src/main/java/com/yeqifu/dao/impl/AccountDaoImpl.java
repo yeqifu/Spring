@@ -17,6 +17,10 @@ public class AccountDaoImpl implements IAccountDao {
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
+    public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
+        this.jdbcTemplate = jdbcTemplate;
+    }
+
     /**
      * 查询
      * @param accountId
@@ -48,9 +52,5 @@ public class AccountDaoImpl implements IAccountDao {
     @Override
     public void updateAccount(Account account) {
         jdbcTemplate.update("update account set name=?,money=? where id=?",account.getName(),account.getMoney(),account.getId());
-    }
-
-    public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
-        this.jdbcTemplate = jdbcTemplate;
     }
 }

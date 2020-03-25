@@ -23,6 +23,8 @@
         <module name="day03_eesy_05annotationAOP" />
         <module name="day04_eesy_01jdbcTemplate" />
         <module name="day04_eesy_02account_aopTx_xml" />
+        <module name="day04_eesy_03account_aopTx_anno" />
+        <module name="day04_eesy_04tx_xml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -44,6 +46,8 @@
       <module name="day03_eesy_05annotationAOP" target="1.8" />
       <module name="day04_eesy_01jdbcTemplate" target="1.8" />
       <module name="day04_eesy_02account_aopTx_xml" target="1.8" />
+      <module name="day04_eesy_03account_aopTx_anno" target="1.8" />
+      <module name="day04_eesy_04tx_xml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

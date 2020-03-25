@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/day03_eesy_01accountAOP/pom.xml" />
         <option value="$PROJECT_DIR$/day04_eesy_01jdbcTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/day04_eesy_02account_aopTx_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_03account_aopTx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_04tx_xml/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

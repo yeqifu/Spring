@@ -18,6 +18,7 @@ public interface IAccountDao {
 
     /**
      * 查询一个
+     * @param accountId
      * @return
      */
     Account findAccountById(Integer accountId);

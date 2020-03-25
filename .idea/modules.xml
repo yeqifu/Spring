@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" filepath="$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04_eesy_01jdbcTemplate/day04_eesy_01jdbcTemplate.iml" filepath="$PROJECT_DIR$/day04_eesy_01jdbcTemplate/day04_eesy_01jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04_eesy_02account_aopTx_xml/day04_eesy_02account_aopTx_xml.iml" filepath="$PROJECT_DIR$/day04_eesy_02account_aopTx_xml/day04_eesy_02account_aopTx_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_03account_aopTx_anno/day04_eesy_03account_aopTx_anno.iml" filepath="$PROJECT_DIR$/day04_eesy_03account_aopTx_anno/day04_eesy_03account_aopTx_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_04tx_xml/day04_eesy_04tx_xml.iml" filepath="$PROJECT_DIR$/day04_eesy_04tx_xml/day04_eesy_04tx_xml.iml" />
     </modules>
   </component>
 </project>
